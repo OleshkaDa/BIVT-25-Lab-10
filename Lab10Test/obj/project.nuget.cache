@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vjmRDhZovPc=",
+  "dgSpecHash": "vyaLtE6nRXs=",
   "success": true,
   "projectFilePath": "/home/error/code/misis/BIVT-25-Lab-10/Lab10Test/Lab10Test.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "/home/error/.nuget/packages/mstest.analyzers/3.6.4/mstest.analyzers.3.6.4.nupkg.sha512",
     "/home/error/.nuget/packages/mstest.testadapter/3.6.4/mstest.testadapter.3.6.4.nupkg.sha512",
     "/home/error/.nuget/packages/mstest.testframework/3.6.4/mstest.testframework.3.6.4.nupkg.sha512",
-    "/home/error/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/error/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
     "/home/error/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/home/error/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
     "/home/error/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
@@ -35,7 +35,9 @@
     "/home/error/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512",
     "/home/error/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/error/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/home/error/.nuget/packages/system.text.json/6.0.10/system.text.json.6.0.10.nupkg.sha512"
+    "/home/error/.nuget/packages/system.text.json/6.0.10/system.text.json.6.0.10.nupkg.sha512",
+    "/home/error/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "/home/error/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.14/microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
   ],
   "logs": []
 }

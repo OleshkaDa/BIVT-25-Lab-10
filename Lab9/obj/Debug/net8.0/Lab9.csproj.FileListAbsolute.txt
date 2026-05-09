@@ -1,0 +1,15 @@
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/bin/Debug/net8.0/Lab9
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/bin/Debug/net8.0/Lab9.deps.json
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/bin/Debug/net8.0/Lab9.runtimeconfig.json
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/bin/Debug/net8.0/Lab9.dll
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/bin/Debug/net8.0/Lab9.pdb
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.GeneratedMSBuildEditorConfig.editorconfig
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.AssemblyInfoInputs.cache
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.AssemblyInfo.cs
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.csproj.CoreCompileInputs.cache
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.sourcelink.json
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.dll
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/refint/Lab9.dll
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.pdb
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/Lab9.genruntimeconfig.cache
+/home/error/code/misis/BIVT-25-Lab-10/Lab9/obj/Debug/net8.0/ref/Lab9.dll

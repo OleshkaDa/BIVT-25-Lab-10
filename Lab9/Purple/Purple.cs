@@ -15,7 +15,7 @@ public abstract class Purple
 
         _input = input;
     }
-        
+
     public abstract void Review();
 
     public virtual void ChangeText(string text)
